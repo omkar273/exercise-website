@@ -1,0 +1,29 @@
+{
+    "Aka": "Adho Mukha Svanasana",
+    "Category": "Yoga",
+    "Difficulty": "Beginner",
+    "Force": "Hold",
+    "exercise_name": "Downward Dog",
+    "id": 63,
+    "steps": [
+        "Begin on your hands and knees with your hands shoulder-width apart and your knees hip-width apart.",
+        "Spread your fingers wide and press down into your palms, making sure that your fingers are evenly spaced and facing forward.",
+        "Tuck your toes under and lift your knees off the ground, straightening your legs as much as possible.",
+        "Press your hips up and back, bringing your body into an inverted \"V\" shape.",
+        "Keep your arms straight and your shoulder blades spread apart, and try to press your heels down towards the ground.",
+        "Hold the pose for several breaths, then release and return to your starting position."
+    ],
+    "target": {
+        "Primary": [
+            "Biceps"
+        ],
+        "Secondary": [
+            "Hamstrings"
+        ]
+    },
+    "videoURL": [
+        "https://media.musclewiki.com/media/uploads/videos/branded/male-yoga-downward-dog-front.mp4#t=0.1",
+        "https://media.musclewiki.com/media/uploads/videos/branded/male-yoga-downward-dog-side.mp4#t=0.1"
+    ],
+    "youtubeURL": ""
+}
